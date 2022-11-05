@@ -4,3 +4,7 @@ This archival repository hosts the material that was developed during my Researc
 
 ## Overview
 We developed a convolutional neural network to perform data analysis for an electronic spectroscopy experiment.
+
+
+## Project Summary
+For a complete description of the problem, please see this [document][paper.pdf].
