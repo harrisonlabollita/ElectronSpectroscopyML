@@ -7,7 +7,6 @@
 # Import necessary libraries for python
 import numpy as np
 import sys
-sys.path.append('/Users/harrisonlabollita/Library/Mobile Documents/com~apple~CloudDocs/Research Experience for Undegraduates/MSU REU/MSU REU Project/python/')
 import ProcessingData as pd
 import setup_electron_densities as setup
 import matplotlib.pyplot as plt

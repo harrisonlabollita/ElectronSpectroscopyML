@@ -9,14 +9,13 @@
 # regressor and the random forest regressor as our estimators.
 # ------------------------------------------------------------------------------
 # IMPORT NECESSSARY LIBRARIES
-import numpy as np
 import sys
-sys.path.append('/Users/harrisonlabollita/Library/Mobile Documents/com~apple~CloudDocs/Research Experience for Undegraduates/MSU REU/MSU REU Project/python/')
-import ProcessingData as pd
+import ..ProcessingData as pd
 import numpy as np
 import csv
 from scipy.stats import chi
 import matplotlib.pyplot as plt
+
 from sklearn.neural_network import MLPRegressor
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.ensemble.gradient_boosting import GradientBoostingRegressor
